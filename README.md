@@ -1,2 +1,2 @@
 # nathi-examples
-Test data reads/writes
+Test data reads/writes Run test.py file 
